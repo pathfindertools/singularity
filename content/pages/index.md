@@ -20,8 +20,9 @@ blocks:
     label: ''
     headline: Singularity
     subhead: A site builder for Web 3.0
-    body: |
-      Make [modern web 3.0](#) ready websites with a real-time visual editor.
+    body: >
+      Make [modern web 3.0](#) ready websites with a real-time visual editor. An
+      edit.
     buttons:
       - label: Get Started
         link: 'https://github.com/pathfindertools/microgen'
