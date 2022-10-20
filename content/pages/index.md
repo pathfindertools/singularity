@@ -7,12 +7,12 @@ blocks:
       featureImage: wpx-499 hpx- ml-auto
       featureContent: w-1/2 min-h-0 text-left
       labelStyles: text-white font-2 text-xl mb-0 font-bold
-      headlineStyles: text-primary font-1 text-6xl mb-0 font-bold
-      subheadStyles: text-gray font-1 text-xl mb-7 font-bold
+      headlineStyles: text-white font-1 text-6xl mb-1.5 font-bold
+      subheadStyles: text-white font-1 text-xl mb-7 font-bold
       textStyles: 'text-white font-1 text-lg mb-11 '
       contentOrder: labelHeadingsContent
     background:
-      fillStyles: from-accent1 to-black bg-gradient-to-br
+      fillStyles: from-primary to-accent2 bg-gradient-to-br opacity-100
     image:
       src: >-
         https://res.cloudinary.com/protocolai/image/upload/v1666227311/ICON_COLOR_djhirl.svg
