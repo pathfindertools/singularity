@@ -52,7 +52,7 @@ blocks:
       textStyles: 'text-gray-light undefined text-lg mb-0 '
       buttonType: primary
     background:
-      fillStyles: from-black to-accent1 bg-gradient-to-bl
+      fillStyles: from-primary to-accent2 bg-gradient-to-tr opacity-100
     label: ''
     headline: Features
     subhead: ''
