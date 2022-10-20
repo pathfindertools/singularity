@@ -89,7 +89,7 @@ blocks:
       contentWidth: w-full
       columns: '1'
       labelStyles: 'text-black font-1 text-sm mb-0 '
-      headlineStyles: 'text-white font-1 text-5xl mb-11 '
+      headlineStyles: text-white font-1 text-5xl mb-11 font-bold
       subheadStyles: 'text-black font-1 text-3xl mb-0 '
       textStyles: 'text-black font-1 text-lg mb-0 '
       contentOrder: labelHeadingsContent
@@ -105,24 +105,31 @@ blocks:
     background:
       fillStyles: from-primary to-accent2 bg-gradient-to-br opacity-100
     label: ''
-    headline: Test
+    headline: How it works
     subhead: ''
     body: ''
     items:
-      - headline: Prepare the data
+      - headline: 1. Prepare the data
         subhead: ''
         text: >
           The data preparation module will scan and convert a local folder
           recursively into CAR files ready to be onboarded to Filecoin Network.
           Singularity also indexes your files on IPFS for easy retrieval.
-      - headline: Here's Another Card
+      - headline: 2. Distribute the CAR files
         subhead: ''
-        text: |
-          This is a rich text component you can add hyperlinks, etc.
-      - headline: Here's Another Card
+        text: >
+          Easily host an HTTP server with the CAR files to be downloaded by the
+          storage provider.
+      - headline: 3. Pick your storage providers
         subhead: ''
-        text: |
-          This is a rich text component you can add hyperlinks, etc.
+        text: >
+          Use a solution for finding storage providers or reach out on Slack.
+          Most storage providers today are interested in taking verified deals,
+          so you need to become familiar yourself with Filecoin Plus.&#x20;
+      - headline: 4. Make storage deals
+        text: >
+          Leverage Lotus and Boost to automatically make deals with the storage
+          providers of your choice.&#x20;
     _template: textCards
 meta:
   pageTitle: Singularity
