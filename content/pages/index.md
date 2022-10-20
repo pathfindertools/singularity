@@ -83,6 +83,31 @@ blocks:
     navigationLabel: Features
     _template: textCards
   - style:
+      textAlignment: text-center
+      minHeight: min-h-0
+      padding: pt-20 pb-20 pr-10 pl-10
+      width: narrow
+      labelStyles: 'text-black font-1 text-sm mb-0 '
+      headlineStyles: 'text-black font-1 text-5xl mb-0 '
+      subheadStyles: 'text-black font-1 text-3xl mb-0 '
+      textStyles: 'text-white font-1 undefined mb-0 '
+      contentOrder: labelHeadingsContent
+    background:
+      fillStyles: from-primary to-accent2 bg-gradient-to-br opacity-100
+      position: object-right
+      ornaments:
+        - src: >-
+            https://res.cloudinary.com/protocolai/image/upload/v1666227018/data-onboarding-assets-DO-Primary-White_phrtte.png
+          alignment: top
+          width: '150'
+          xOffset: ''
+          yOffset: '10'
+    label: ''
+    headline: ''
+    subhead: ''
+    body: "Singularity is an open-source tool designed by X and Y and maintained by Outercore that helps data owners and storage providers ingest massive amounts of data.\n\nIt is a simple NPM package that works with Lotus and Boost to tie together every step of data onboarding.\_\n"
+    _template: banner
+  - style:
       textAlignment: text-left
       minHeight: min-h-0
       padding: pt-20 pb-20 pr-20 pl-20
@@ -130,6 +155,7 @@ blocks:
         text: >
           Leverage Lotus and Boost to automatically make deals with the storage
           providers of your choice.&#x20;
+    navigationLabel: How it works
     _template: textCards
 meta:
   pageTitle: Singularity
