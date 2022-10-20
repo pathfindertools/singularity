@@ -19,14 +19,14 @@ blocks:
       alt: Singularity logo
     label: ''
     headline: Singularity
-    subhead: A site builder for Web 3.0
+    subhead: An end-to-end solution for data onboarding to Filecoin.
     body: >
-      Make [modern web 3.0](#) ready websites with a real-time visual editor. An
-      edit.
+      Facilitating petabyte-scale data ingestion for storage clients and
+      providers.
     buttons:
-      - label: Get Started
-        link: 'https://github.com/pathfindertools/microgen'
-        type: primary
+      - label: Learn more
+        link: 'https://github.com/tech-greedy/singularity/wiki/Design'
+        type: secondary
     _template: feature
   - style:
       textAlignment: text-left
