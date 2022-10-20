@@ -84,6 +84,6 @@ blocks:
     _template: textCards
 meta:
   pageTitle: Singularity
-  pageDescription: Make modern web 3.0 ready websites with a real-time visual editor.
+  pageDescription: An end-to-end solution for data onboarding on Filecoin
 ---
 
