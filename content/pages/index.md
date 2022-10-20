@@ -109,10 +109,12 @@ blocks:
     subhead: ''
     body: ''
     items:
-      - headline: Here's Another Card
+      - headline: Prepare the data
         subhead: ''
-        text: |
-          This is a rich text component you can add hyperlinks, etc.
+        text: >
+          The data preparation module will scan and convert a local folder
+          recursively into CAR files ready to be onboarded to Filecoin Network.
+          Singularity also indexes your files on IPFS for easy retrieval.
       - headline: Here's Another Card
         subhead: ''
         text: |
