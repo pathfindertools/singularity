@@ -4,7 +4,7 @@ blocks:
   - style:
       alignment: 'flex-row-reverse items-center items-center-vertical '
       padding: pt-48 pb-20 pr-20 pl-20
-      featureImage: wpx-499 hpx- ml-auto
+      featureImage: wpx-300 hpx- mx-auto
       featureContent: w-1/2 min-h-0 text-left
       labelStyles: text-white font-2 text-xl mb-0 font-bold
       headlineStyles: text-white font-1 text-6xl mb-1.5 font-bold
@@ -105,7 +105,7 @@ blocks:
     label: ''
     headline: ''
     subhead: ''
-    body: "Singularity is an open-source tool designed by [@Xinan Xu](https://github.com/xinaxu) and [@Fei Yan](https://github.com/kernelogic) and maintained by Outercore that helps data owners and storage providers ingest massive amounts of data.\n\nIt is a simple [NPM package](https://www.npmjs.com/package/@techgreedy/singularity) that works with [Lotus](https://lotus.filecoin.io/) and [Boost](https://boost.filecoin.io/) to tie together every step of data onboarding.\_\n"
+    body: "Singularity is an open-source tool designed by [@Xinan Xu](https://github.com/xinaxu) and [@Fei Yan](https://github.com/kernelogic) and maintained by the Data Onboarding team at Protocol Labs. Our goal is to develop tools that help data owners and storage providers ingest massive amounts of data to the Filecoin network.\n\nIt is a simple [NPM package](https://www.npmjs.com/package/@techgreedy/singularity) that works with [Lotus](https://lotus.filecoin.io/) and [Boost](https://boost.filecoin.io/) to tie together every step of data onboarding.\_\n"
     _template: banner
   - style:
       textAlignment: text-left
@@ -128,7 +128,7 @@ blocks:
       textStyles: 'text-white font-1 text-lg mb-0 '
       buttonType: primary
     background:
-      fillStyles: from-primary to-accent2 bg-gradient-to-br opacity-100
+      fillStyles: from-accent2 to-primary bg-gradient-to-bl opacity-100
     label: ''
     headline: How it works
     subhead: ''
@@ -144,13 +144,16 @@ blocks:
         subhead: ''
         text: >
           Easily host an HTTP server with the CAR files to be downloaded by the
-          storage provider.
+          storage provider. You can also send the CAR files offline if the files
+          are too large.
       - headline: 3. Pick your storage providers
         subhead: ''
         text: >
-          Use a solution for finding storage providers or reach out on Slack.
-          Most storage providers today are interested in taking verified deals,
-          so you need to become familiar yourself with Filecoin Plus.&#x20;
+          Use a solution for finding storage providers or [reach out on
+          Slack](https://app.slack.com/client/TEHTVS1L6/C02GQUMFQVA). Most
+          storage providers today are interested in taking verified deals, so
+          you need to familiarize yourself with [Filecoin
+          Plus](https://github.com/filecoin-project/filecoin-plus-large-datasets).&#x20;
       - headline: 4. Make storage deals
         text: >
           Leverage Lotus and Boost to automatically make deals with the storage
