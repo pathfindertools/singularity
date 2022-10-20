@@ -43,13 +43,13 @@ blocks:
       textStyles: text-black undefined text-lg mb-0 font-bold
       contentOrder: labelHeadingsContent
     cardStyle:
-      fillStyles: bg-accent1 opacity-100
+      fillStyles: ' opacity-100'
       padding: pt-4 pb-4 pr-5 pl-7
       borderStyles: border-primary border-3
-      labelStyles: 'text-black undefined text-sm mb-0 '
-      headlineStyles: text-primary font-1 text-xl mb-2 font-bold
+      labelStyles: 'text-white undefined text-sm mb-0 '
+      headlineStyles: text-white font-1 text-xl mb-2 font-bold
       subheadStyles: 'text-black undefined text-lg mb-0 '
-      textStyles: 'text-gray-light undefined text-lg mb-0 '
+      textStyles: 'text-white undefined text-lg mb-0 '
       buttonType: primary
     background:
       fillStyles: from-primary to-accent2 bg-gradient-to-tr opacity-100
