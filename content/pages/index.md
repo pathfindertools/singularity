@@ -83,27 +83,6 @@ blocks:
     navigationLabel: Features
     _template: textCards
   - style:
-      textAlignment: text-center
-      minHeight: min-h-0
-      padding: pt-7 pb-10 pr-0 undefined
-      width: normal
-      labelStyles: text-black undefined text-xl mb-0 font-bold
-      headlineStyles: text-white undefined text-6xl mb-3 font-bold
-      subheadStyles: text-black undefined text-3xl mb-0 font-bold
-      textStyles: text-black undefined text-lg mb-0 font-bold
-      contentOrder: labelHeadingsContent
-    background:
-      fillStyles: bg-primary
-    label: ''
-    headline: Learn More
-    subhead: ''
-    body: ''
-    buttons:
-      - label: Get Started
-        link: 'https://github.com/filecoin-project/microgen'
-        type: secondary
-    _template: banner
-  - style:
       minHeight: min-h-0
       fullWidth: false
       padding: pt-10 pb-10 pr-20 pl-20
