@@ -24,6 +24,9 @@ blocks:
       Facilitating petabyte-scale data ingestion for storage clients and
       providers.
     buttons:
+      - label: Get started
+        link: 'https://github.com/tech-greedy/singularity'
+        type: primary
       - label: Learn more
         link: 'https://github.com/tech-greedy/singularity/wiki/Design'
         type: secondary
