@@ -105,7 +105,7 @@ blocks:
     label: ''
     headline: ''
     subhead: ''
-    body: "Singularity is an open-source tool designed by [@Xinan Xu](https://github.com/xinaxu) and [@Fei Yan](https://github.com/kernelogic) and maintained by Outercore that helps data owners and storage providers ingest massive amounts of data.\n\nIt is a simple NPM package that works with Lotus and Boost to tie together every step of data onboarding.\_\n"
+    body: "Singularity is an open-source tool designed by [@Xinan Xu](https://github.com/xinaxu) and [@Fei Yan](https://github.com/kernelogic) and maintained by Outercore that helps data owners and storage providers ingest massive amounts of data.\n\nIt is a simple [NPM package](https://www.npmjs.com/package/@techgreedy/singularity) that works with [Lotus](https://lotus.filecoin.io/) and [Boost](https://boost.filecoin.io/) to tie together every step of data onboarding.\_\n"
     _template: banner
   - style:
       textAlignment: text-left
