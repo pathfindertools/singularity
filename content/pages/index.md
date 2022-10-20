@@ -15,8 +15,8 @@ blocks:
       fillStyles: from-accent1 to-black bg-gradient-to-br
     image:
       src: >-
-        https://res.cloudinary.com/protocolai/image/upload/v1649882497/microgen/Hall_of_Fame_grccee_k39etu.png
-      alt: Illustration of space shuttles
+        https://res.cloudinary.com/protocolai/image/upload/v1666227311/ICON_COLOR_djhirl.svg
+      alt: Singularity logo
     label: ''
     headline: Singularity
     subhead: A site builder for Web 3.0
