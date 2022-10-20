@@ -8,7 +8,7 @@
     "primary": "#65BDEE",
     "accent1": "#0E4465",
     "accent2": "#A54DF3",
-    "accent3": "#2DD0DB",
+    "accent3": "#2F93CC",
     "accent4": "#00D0DB",
     "white": "#FFFFFF",
     "grayLight": "#E8E8EF",
@@ -65,12 +65,12 @@
   "nav": {
     "navItems": [
       {
-        "label": "Sub Nav",
+        "label": "Contact us",
         "link": "",
         "subNavItems": [
           {
-            "label": "Option 1",
-            "link": "/"
+            "label": "Slack",
+            "link": "https://app.slack.com/client/TEHTVS1L6/C033QS35MFA"
           },
           {
             "label": "Option 2",
