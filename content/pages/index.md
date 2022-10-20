@@ -58,18 +58,18 @@ blocks:
     subhead: ''
     body: ''
     items:
-      - headline: Deploy Quickly
+      - headline: Simple data processing
         subhead: ''
         text: >
-          Get a website complete with a visual CMS deployed in less than an hour
-          on your choice of static host.
-        link: ye
+          Singularity automates data preparation by automatically chunking your
+          data and generating CAR files.
+        link: ''
         buttonLabel: ''
-      - headline: Modern Features
+      - headline: Configurable and modular
         subhead: ''
         text: >
-          Responsive design, open graph social sharing and google analytics on
-          every site.
+          Pick-and-choose the components you want. Process local data or point
+          to a public S3 bucket.
       - headline: Custom Design
         subhead: ''
         text: >
