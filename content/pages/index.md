@@ -70,15 +70,16 @@ blocks:
         text: >
           Pick-and-choose the components you want. Process local data or point
           to a public S3 bucket.
-      - headline: Custom Design
+      - headline: Robust deal execution
         subhead: ''
         text: >
-          Customize the look and feel of your site with a realtime visual
-          editor, without writing a single line of code.
-      - headline: Git Based
+          Customize the deal execution strategy: deal with your preferred
+          storage providers with a schedule that works.
+      - headline: Indexing and retrieval
         subhead: ''
-        text: |
-          Version controlled content and design.
+        text: >
+          Data is automatically indexed on IPFS. Retrievals are done with a
+          simple command.
     navigationLabel: Features
     _template: textCards
   - style:
