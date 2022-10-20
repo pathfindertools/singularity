@@ -2,6 +2,43 @@
 draft: true
 blocks:
   - style:
+      textAlignment: text-left
+      minHeight: min-h-0
+      padding: pt-20 pb-20 pr-20 pl-20
+      contentWidth: w-full
+      columns: '1'
+      labelStyles: 'text-black font-1 text-sm mb-0 '
+      headlineStyles: 'text-black font-1 text-5xl mb-0 '
+      subheadStyles: 'text-black font-1 text-3xl mb-0 '
+      textStyles: 'text-black font-1 text-base mb-0 '
+      contentOrder: labelHeadingsContent
+    cardStyle:
+      fillStyles: bg-gray
+      padding: pt-4 pr-4 pb-4 pl-4
+      borderStyles: border-gray
+      labelStyles: text-black font-1 text-sm mb-0
+      headlineStyles: text-black font-1 text-2xl mb-0
+      subheadStyles: text-black font-1 text-md mb-0
+      textStyles: text-black font-1 text-sm mb-0
+    label: ''
+    headline: Test
+    subhead: ''
+    body: ''
+    items:
+      - headline: Here's Another Card
+        subhead: ''
+        text: |
+          This is a rich text component you can add hyperlinks, etc.
+      - headline: Here's Another Card
+        subhead: ''
+        text: |
+          This is a rich text component you can add hyperlinks, etc.
+      - headline: Here's Another Card
+        subhead: ''
+        text: |
+          This is a rich text component you can add hyperlinks, etc.
+    _template: textCards
+  - style:
       alignment: 'flex-row-reverse items-center items-center-vertical '
       padding: pt-48 pb-20 pr-20 pl-20
       featureImage: wpx-499 hpx- ml-auto
