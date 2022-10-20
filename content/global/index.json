@@ -1,7 +1,7 @@
 {
   "siteUrl": "singularity.vercel.app",
   "gtmId": "",
-  "favicon": "https://res.cloudinary.com/protocolai/image/upload/v1649882296/filecoin-favicon_rn3bfm.png",
+  "favicon": "https://res.cloudinary.com/protocolai/image/upload/v1666227102/singularity-icon-small_olhqte.png",
   "desktopWidth": "1200",
   "backgroundColor": "white",
   "colors": {
@@ -57,9 +57,9 @@
   "logo": {
     "logoType": "Microgen",
     "logoTypeStyle": "text-white undefined text-base undefined font-bold",
-    "image": "http://res.cloudinary.com/protocolai/image/upload/v1646088242/cryptonet/protocol-logo_ewn4sv.png",
-    "imageWidth": "48",
-    "imageHeight": "48",
+    "image": "https://res.cloudinary.com/protocolai/image/upload/v1666226940/PRIMARY_ONE_COLOR_WHITE_ux4ppf.png",
+    "imageWidth": "150",
+    "imageHeight": "",
     "imageMargin": "24"
   },
   "nav": {
