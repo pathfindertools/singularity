@@ -98,7 +98,15 @@
         "contentOrder": "labelHeadingsContent"
       },
       "background": {
-        "fillStyles": "bg-accent1 opacity-100"
+        "fillStyles": "bg-accent1 opacity-100",
+        "ornaments": [
+          {
+            "src": "https://res.cloudinary.com/protocolai/image/upload/v1666226940/PRIMARY_ONE_COLOR_WHITE_ux4ppf.png",
+            "alignment": "top",
+            "width": "100",
+            "yOffset": "10"
+          }
+        ]
       },
       "label": "",
       "headline": "",
